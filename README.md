@@ -1,0 +1,1 @@
+Este repositório contém exercícios que realizei como parte do curso da GrowDev. Os desafios abordam vários conceitos de programação, refletindo o conteúdo aprendido durante minha formação. Através destes exercícios, tive a oportunidade de colocar em prática e aprofundar o conhecimento adquirido no curso.
